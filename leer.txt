@@ -1,0 +1,21 @@
+
+
+Importante cambiar la ruta absoluta del guardado del LOG corespondiente a donde se encuentre el fichero .log y el ejecutable recoge-prac.sh en rutaLog y rutaRecogePracticas
+	Ejemplo 
+		rutaLog="/media/kali/ESD-USB/ASO/P6/informe-prac.log"
+		rutaRecogePracticas="/media/kali/ESD-USB/ASO/P6/recoge-prac.sh"
+
+
+gestiona-prac
+	Menu
+		1 hecho
+		2 hecho
+		3 hecho
+		4 hecho
+
+
+recoge-prac
+	Hecho
+
+
+echo -e "Log of echo -e\n$(date)\n\nXXXXXXXXXXXXXXXXXXXXXXXXX\n\n$(date)\n----------------" >> $rutaLog; --->> PASAR ESTO A VARIABLE CAMBIAR ESTO NE GESRIONA Y RECOGE ENVIAR CORREO Y CON MI NOBMRE Y DECIRLE QUE YA LO HICE 

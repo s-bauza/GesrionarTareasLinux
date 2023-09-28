@@ -1,0 +1,79 @@
+Log of echo 
+Fri Dec  2 02:19:23 PM UTC 2022
+
+La recogida de practicas ha sido programada. ! 
+
+Fri Dec  2 02:19:23 PM UTC 2022
+----------------
+Log of cp -r /media/kali/ESD-USB/ASO/P6/Practicas/ /media/kali/ESD-USB/ASO/P6/backUpPrac/ 
+Fri Dec  2 02:20:01 PM UTC 2022
+
+OK
+
+Fri Dec  2 02:20:01 PM UTC 2022
+
+----------------
+Log of echo 
+Fri Dec  2 02:21:13 PM UTC 2022
+
+Las prácticas han sido empaquetadas. ! 
+
+Fri Dec  2 02:21:13 PM UTC 2022
+----------------
+Log of cd /media/kali/ESD-USB/ASO/P6/backUpPrac/Practicas && tar czf ASO-221202.tgz
+Fri Dec  2 02:21:13 PM UTC 2022
+
+OK
+
+Fri Dec  2 02:21:13 PM UTC 2022
+
+----------------
+Log of echo 
+Fri Dec  2 02:22:58 PM UTC 2022
+
+El fichero generado es ASO-221202.tgz y ocupa 208 bytes.
+
+Fri Dec  2 02:22:58 PM UTC 2022
+----------------
+Log of echo 
+Fri Dec  2 02:43:02 PM UTC 2022
+
+El fichero generado es ASO-221202.tgz y ocupa 208 bytes.
+
+Fri Dec  2 02:43:02 PM UTC 2022
+----------------
+Log of echo 
+Fri Dec  2 02:43:53 PM UTC 2022
+
+El fichero generado es ASO-221202.tgz y ocupa 208 bytes.
+
+Fri Dec  2 02:43:53 PM UTC 2022
+----------------
+Log of echo 
+Fri Dec  2 02:44:38 PM UTC 2022
+
+El fichero generado es hola y ocupa 2 bytes.
+
+Fri Dec  2 02:44:38 PM UTC 2022
+----------------
+Log of echo 
+Fri Dec  2 02:45:16 PM UTC 2022
+
+El fichero generado es ASO-221202.tgz y ocupa 208 bytes.
+
+Fri Dec  2 02:45:16 PM UTC 2022
+----------------
+Log of echo 
+Fri Dec  2 02:46:48 PM UTC 2022
+
+El fichero generado es ASO-221202.tgz y ocupa 208 bytes.
+
+Fri Dec  2 02:46:48 PM UTC 2022
+----------------
+Log of echo 
+Fri Dec  2 02:48:49 PM UTC 2022
+
+El fichero generado es ASO-221202.tgz y ocupa 208 bytes.
+
+Fri Dec  2 02:48:49 PM UTC 2022
+----------------
